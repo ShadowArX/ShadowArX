@@ -7,7 +7,7 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShadowArX&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
  <br>
 
-<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api/top-lang7s?username=ShadowArX&layout=compact&langs_count=6&theme=shadow_blue" alt="ShadowArX" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShadoArX&layout=compact&langs_count=8&theme=nightowl" alt="ShadowArX" /></p>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=ShadowArX&style=flat-square"/>
